@@ -1,1 +1,1 @@
-# JavascriptExcercises
+# javascript-projects
